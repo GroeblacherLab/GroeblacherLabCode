@@ -1,0 +1,1 @@
+Mechonics.py is the driver to control the Mechonics stage MX35 via the USB controller CU30 using a python interface. It uses the C++ wrapper (CU30Wrap.dll) provided by the company (https://www.mechonics.de/home/).
